@@ -10,3 +10,9 @@
 [Лабораторная работа 5](https://github.com/Nikistor/MachineLearningTechnologies/tree/lab5)
 
 [Лабораторная работа 6](https://github.com/Nikistor/MachineLearningTechnologies/tree/lab6)
+
+# Ссылки на рубежные контроли:
+
+[Рубежный контроль 1](https://github.com/Nikistor/MachineLearningTechnologies/tree/RK1)
+
+[Рубежный контроль 2](https://github.com/Nikistor/MachineLearningTechnologies/tree/RK2)
