@@ -20,4 +20,4 @@
 
 # Ссылки на НИРС:
 
-[НИРС](https://github.com/Nikistor/MachineLearningTechnologies/tree/RK1)
+[НИРС](https://github.com/Nikistor/MachineLearningTechnologies/tree/NIRS)
