@@ -16,3 +16,8 @@
 [Рубежный контроль 1](https://github.com/Nikistor/MachineLearningTechnologies/tree/RK1)
 
 [Рубежный контроль 2](https://github.com/Nikistor/MachineLearningTechnologies/tree/RK2)
+
+
+# Ссылки на НИРС:
+
+[НИРС](https://github.com/Nikistor/MachineLearningTechnologies/tree/RK1)
