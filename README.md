@@ -15,5 +15,5 @@
 | ИУ5Ц-84Б      | Линейная/логистическая регрессия | Градиентный бустинг |
 
 Наборы данных:
-(https://www.kaggle.com/roysouravcu/forbes-billionaires-of-2021)
+https://www.kaggle.com/roysouravcu/forbes-billionaires-of-2021
 
