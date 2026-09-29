@@ -1,3 +1,5 @@
+# Технологии машинного обучения
+
 # Ссылки на лабораторные работы:
 [Лабораторная работа 1](https://github.com/Nikistor/MachineLearningTechnologies/tree/lab1)
 
