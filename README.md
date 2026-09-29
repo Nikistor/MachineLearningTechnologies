@@ -1,6 +1,6 @@
 # Технологии машинного обучения
 
-# Ссылки на лабораторные работы:
+## Ссылки на лабораторные работы:
 [Лабораторная работа 1](https://github.com/Nikistor/MachineLearningTechnologies/tree/lab1)
 
 [Лабораторная работа 2](https://github.com/Nikistor/MachineLearningTechnologies/tree/lab2)
@@ -13,13 +13,13 @@
 
 [Лабораторная работа 6](https://github.com/Nikistor/MachineLearningTechnologies/tree/lab6)
 
-# Ссылки на рубежные контроли:
+## Ссылки на рубежные контроли:
 
 [Рубежный контроль 1](https://github.com/Nikistor/MachineLearningTechnologies/tree/RK1)
 
 [Рубежный контроль 2](https://github.com/Nikistor/MachineLearningTechnologies/tree/RK2)
 
 
-# Ссылки на НИРС:
+## Ссылки на НИРС:
 
 [НИРС](https://github.com/Nikistor/MachineLearningTechnologies/tree/NIRS)
